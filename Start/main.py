@@ -16,4 +16,11 @@ dct = {10: "1",
     20: "20"}
 st = {1, 2, 3, 4}
 print(type(age))
+print(a)
+print(name)
+print(n)
+print(list1)
+print(tpl)
+print(dct)
+print(st)
 #THE END
