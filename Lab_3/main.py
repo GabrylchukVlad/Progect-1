@@ -68,4 +68,6 @@ def main():
             help()
         else:
             print("Невірний вибір. Спробуйте ще раз.")
-main()
+            
+if __name__ == "__main__":
+    main()
